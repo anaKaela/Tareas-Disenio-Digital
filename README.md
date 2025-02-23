@@ -4,8 +4,8 @@
 #### Ingeniería en Sistemas UNAH CORTÉS
 
 ## Tener estas dependencias:
-express
-zo
+- express
+- zo
 
 ## Cómo instalarlas:
 ```sh
