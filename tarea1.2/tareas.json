@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2,
+    "titulo": "Nueva Tarea",
+    "descripcion": "Descripción de la nueva tarea con al menos 20 caracteres",
+    "completada": false,
+    "fecha_creacion": "2025-02-22T23:27:05.771Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Nueva Tarea",
+    "descripcion": "Descripción de la nueva tarea con al menos 20 caracteres",
+    "completada": false,
+    "fecha_creacion": "2025-02-22T23:27:13.482Z"
+  },
+  {
+    "id": 4,
+    "titulo": "Nueva Tarea",
+    "descripcion": "Descripción de la nueva tarea con al menos 20 caracteres",
+    "completada": false,
+    "fecha_creacion": "2025-02-22T23:27:14.300Z"
+  },
+  {
+    "id": 5,
+    "titulo": "Nueva Tarea",
+    "descripcion": "Descripción de la nueva tarea con al menos 20 caracteres",
+    "completada": false,
+    "fecha_creacion": "2025-02-22T23:27:14.780Z"
+  },
+  {
+    "id": 6,
+    "titulo": "Nueva Tarea",
+    "descripcion": "Descripción de la nueva tarea con al menos 20 caracteres",
+    "completada": false,
+    "fecha_creacion": "2025-02-22T23:28:54.046Z"
+  }
+]
