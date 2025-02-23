@@ -8,8 +8,13 @@ express
 zo
 
 ## Cómo instalarlas:
+```sh
 npm install express
+```
+
+```sh
 npm install zo 
+```
 
 ## Extensiones necesarias para correr el proyecto:
 RestClient
