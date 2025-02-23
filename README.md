@@ -2,13 +2,19 @@
 
 #### Autor: Ana Kaela Oseguera Munguía
 #### Ingeniería en Sistemas UNAH CORTÉS
+
 ## Tener estas dependencias:
 express
 zo
+
 ## Cómo instalarlas:
 npm install express
 npm install zo 
 
 ## Extensiones necesarias para correr el proyecto:
 RestClient
+
+## Cómo correr el proyecto:
+váyase al archivo api.http, en cada request habrá un send request. Dele click allí y automáticamente se estará 
+enviando el request
 
