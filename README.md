@@ -3,6 +3,9 @@
 #### Autor: Ana Kaela Oseguera Munguía
 #### Ingeniería en Sistemas UNAH CORTÉS
 
+## Tener instalado Node.js en tu ordenador:
+[Node.js](https://nodejs.org/)
+
 ## Tener estas dependencias:
 - express
 - zo
